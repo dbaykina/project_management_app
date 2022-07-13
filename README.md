@@ -1,4 +1,4 @@
-A project management app allows for different users to create tasks with the following characteristics: 
+A project management app allows different users to create tasks with the following characteristics: 
 description, owner, category, priority, owner, etc.
 Each task can be created, updated and deleted. 
 
