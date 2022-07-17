@@ -6,8 +6,8 @@ All tasks are displayed by category on a common dashboard.
 
 
 
-To start app: npm run start:frontend 
-              npm run start:backendtend 
+To launch app: npm run start:frontend 
+               npm run start:backend 
 
 
 
